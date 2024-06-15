@@ -1,6 +1,7 @@
 # VTOLVR-QUICK-REFERENCE-CARDS
 This is a collection of quick reference cards concerning in-game weapon and aircraft systems for usage with an in-game kneeboard (Such as OpenKneeBoard) within VTOL VR.
 
+### Aspect Ratio Standardization
 Moving forwards, in order to conserve aspect ratio between OpenKneeBoard tab changes, all cards will be reformatted to **9x16 vertical format** (This is your standard HD 1920x1080 aspect ratio).
 
 The Folder "Reference Cards" contains the cards themselves, ready for import into OpenKneeboard
