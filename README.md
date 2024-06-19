@@ -2,7 +2,7 @@
 This is a collection of quick reference cards concerning in-game weapon and aircraft systems for usage with an in-game kneeboard (Such as OpenKneeBoard) within VTOL VR.
 
 ## Aspect Ratio Standardization at 2:3
-Moving forwards, in order to conserve aspect ratio between OpenKneeBoard tab changes, all cards will be reformatted to **2x3 portrait format**.
+Moving forwards, in order to conserve aspect ratio between OpenKneeBoard tab changes, all cards will be reformatted to **2x3 portrait format**. For actual kneeboard display I export in PNG and use **1000x1500**.
 
 The Folder "Reference Cards" contains the cards themselves, ready for import into OpenKneeboard
 
